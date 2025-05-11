@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Pooja Chavan
 
-🚀 DevOps & Cloud Engineer | Former Startup CEO & Marketing Director  
+🚀 DevOps & Cloud Engineer | Tech-Enthusiast with Entrepreneurial Spirit  
 📍 Bengaluru, India | 💼 [LinkedIn](https://www.linkedin.com/in/pooja-chavan-299b16257/) | ✉️ poojachavanj779@gmail.com
 
 ---
 
 I'm a results-driven **DevOps and Cloud professional** with over **5 years of experience** in designing scalable infrastructures, automating deployments, and improving system reliability using AWS and modern DevOps tools.
 
-From **2019 to 2021**, I served as the **CEO & Director of Marketing** for a self-started e-commerce venture, where I led a team of 15, designed growth strategies, and achieved a top-5 national sales ranking. This entrepreneurial journey sharpened my leadership, operations, and customer-centric thinking — skills I now apply to scalable cloud solutions.
+In addition to my technical background, I bring a strong foundation in **team leadership, digital marketing, and e-commerce operations**, having led a high-performing sales and marketing initiative from 2019 to 2021. This blend of tech and business experience enables me to approach engineering challenges with strategic thinking and user impact in mind.
 
 ---
 
@@ -32,14 +32,12 @@ From **2019 to 2021**, I served as the **CEO & Director of Marketing** for a sel
 
 ---
 
-### 👩‍💼 Leadership Snapshot
+### 🌟 Additional Highlights
 
-**CEO & Director of Marketing (2019–2021)**  
-- Launched and scaled an e-commerce business  
-- Led a team of 15 marketers across multiple product categories  
-- Ranked in the top 5 nationally for sales in Year 1  
-- Executed digital marketing campaigns and optimized operations  
-- Built foundational business workflows — now reflected in my DevOps process thinking
+- Built and managed a 15-member marketing team for a successful online sales initiative  
+- Achieved top 5 national rank in product-based sales within a year  
+- Delivered customer-facing solutions with a focus on scalability, usability, and performance  
+- Continuously learning, building, and optimizing cloud-native architectures
 
 ---
 
@@ -50,4 +48,4 @@ From **2019 to 2021**, I served as the **CEO & Director of Marketing** for a sel
 
 ---
 
-🌟 *Combining business vision with tech execution to build systems that scale.*  
+🌟 *Combining business vision with tech execution to build systems that scale.*
