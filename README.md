@@ -47,11 +47,11 @@ In addition to my technical background, I bring a strong foundation in **team le
 - 📫 Email: poojachavanj779@gmail.com
 
 ---
-
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Doraemon says hello!" />
 </p>
 
 <h1 align="center">Hello 👋 & Welcome to My GitHub Profile!</h1>
+
 
 🌟 *Combining business vision with tech execution to build systems that scale.*
