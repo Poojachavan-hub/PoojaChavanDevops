@@ -1,34 +1,53 @@
-<h1 align="center">Hi 👋, I'm Pooja Chavan</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+# 👋 Hi, I'm Pooja Chavan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojachavan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="poojachavan-hub" /> </p>
+🚀 DevOps & Cloud Engineer | Former Startup CEO & Marketing Director  
+📍 Bengaluru, India | 💼 [LinkedIn](https://www.linkedin.com/in/pooja-chavan-299b16257/) | ✉️ poojachavanj779@gmail.com
 
-- 🔭 I’m currently working on **Building a Scalable and Secure Web Application on AWS**
+---
 
-- 🌱 I’m currently learning **Kafka**
+I'm a results-driven **DevOps and Cloud professional** with over **5 years of experience** in designing scalable infrastructures, automating deployments, and improving system reliability using AWS and modern DevOps tools.
 
-- 📄 Know about my experiences [Devops-2025.pdf](Devops-2025.pdf)
+From **2019 to 2021**, I served as the **CEO & Director of Marketing** for a self-started e-commerce venture, where I led a team of 15, designed growth strategies, and achieved a top-5 national sales ranking. This entrepreneurial journey sharpened my leadership, operations, and customer-centric thinking — skills I now apply to scalable cloud solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pooja-chavan-299b16257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pooja-chavan-299b16257/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+### 🛠️ Tech Stack & Tools
 
+- **Cloud:** AWS (EC2, VPC, RDS, Lambda, S3, CloudFront, CloudWatch, IAM, GuardDuty)
+- **DevOps:** Terraform, AWS CloudFormation, Ansible, Jenkins, Git, GitHub Actions
+- **Containers:** Docker, Docker Compose, Kubernetes (EKS)
+- **CI/CD:** CodePipeline, CodeBuild, CodeDeploy, Elastic Beanstalk
+- **Monitoring & Security:** CloudWatch Logs, KMS, CloudTrail
+- **Programming:** Python, Shell, YAML
+- **Others:** Elasticsearch, SonarCloud, Selenium, Power BI
 
+---
 
-<div align="center">
+### 🚀 DevOps Projects
 
-[![Tailwind Components][logo-url]][site-url]  
+- **Scalable Web App on AWS** – VPC, EC2, RDS, Auto Scaling, S3 + CloudFront, secured via IAM & KMS  
+- **CI/CD Pipeline Automation** – CodePipeline + Jenkins for app delivery with SonarCloud and Selenium  
+- **Kubernetes Microservices Deployment** – Dockerized app with EKS, auto-scaling, and observability  
+- **ElasticSearch + Python Logs Dashboard** – Real-time insights into application health
 
-</div>
+---
 
-[logo-url]: https://github.com/user-attachments/assets/3e5bde5f-7cad-4a36-a5d8-cc40e9d67e5e
-[site-url]: https://daisyui.com/
+### 👩‍💼 Leadership Snapshot
 
+**CEO & Director of Marketing (2019–2021)**  
+- Launched and scaled an e-commerce business  
+- Led a team of 15 marketers across multiple product categories  
+- Ranked in the top 5 nationally for sales in Year 1  
+- Executed digital marketing campaigns and optimized operations  
+- Built foundational business workflows — now reflected in my DevOps process thinking
 
+---
 
+### 📈 Let’s Connect
 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pooja-chavan-299b16257/)
+- 📫 Email: poojachavanj779@gmail.com
 
+---
+
+🌟 *Combining business vision with tech execution to build systems that scale.*  
