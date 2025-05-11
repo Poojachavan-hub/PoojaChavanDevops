@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Pooja Chavan</h1>
-<h3 align="center">DevOps & Cloud Professional | CI/CD | AWS | Infrastructure Automation</h3>
 
-- 🔭 I’m currently working at **EKHO Foundation**
-- 🌱 I have **5+ years of experience** in DevOps, Cloud, Automation & Infrastructure
-- 💡 Passionate about **AWS, CI/CD, Terraform, Kubernetes, Jenkins, Ansible, and Cloud Monitoring**
-- ⚙️ Skilled in creating secure, scalable infrastructures and automating deployments
-- 📫 Reach me at: **Poojachavanj779@gmail.com**
-- 🌍 Bengaluru, India
+
+# 👋 Hi, I'm Pooja Chavan
+
+🚀 DevOps & Cloud Engineer | Tech-Enthusiast with Entrepreneurial Spirit  
+📍 Bengaluru, India | 💼 [LinkedIn](https://www.linkedin.com/in/pooja-chavan-299b16257/) | ✉️ poojachavanj779@gmail.com
 
 ---
+
+I'm a results-driven **DevOps and Cloud professional** with over **5 years of experience** in designing scalable infrastructures, automating deployments, and improving system reliability using AWS and modern DevOps tools.
+
+In addition to my technical background, I bring a strong foundation in **team leadership, digital marketing, and e-commerce operations**, having led a high-performing sales and marketing initiative from 2019 to 2021. This blend of tech and business experience enables me to approach engineering challenges with strategic thinking and user impact in mind.
+
+---
+
 
 ### 🛠️ Tech Stack
 
@@ -28,20 +32,6 @@
 ![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojachavan-hub&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojachavan-hub&layout=compact&theme=github_dark)
 
-
-
-# 👋 Hi, I'm Pooja Chavan
-
-🚀 DevOps & Cloud Engineer | Tech-Enthusiast with Entrepreneurial Spirit  
-📍 Bengaluru, India | 💼 [LinkedIn](https://www.linkedin.com/in/pooja-chavan-299b16257/) | ✉️ poojachavanj779@gmail.com
-
----
-
-I'm a results-driven **DevOps and Cloud professional** with over **5 years of experience** in designing scalable infrastructures, automating deployments, and improving system reliability using AWS and modern DevOps tools.
-
-In addition to my technical background, I bring a strong foundation in **team leadership, digital marketing, and e-commerce operations**, having led a high-performing sales and marketing initiative from 2019 to 2021. This blend of tech and business experience enables me to approach engineering challenges with strategic thinking and user impact in mind.
-
----
 
 ### 🛠️ Tech Stack & Tools
 
