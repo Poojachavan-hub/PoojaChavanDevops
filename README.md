@@ -13,9 +13,6 @@ In addition to my technical background, I bring a strong foundation in **team le
 
 ---
 
-
-### 🛠️ Tech Stack
-
 **Languages & Tools:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
@@ -33,7 +30,7 @@ In addition to my technical background, I bring a strong foundation in **team le
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojachavan-hub&layout=compact&theme=github_dark)
 
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 - **Cloud:** AWS (EC2, VPC, RDS, Lambda, S3, CloudFront, CloudWatch, IAM, GuardDuty)
 - **DevOps:** Terraform, AWS CloudFormation, Ansible, Jenkins, Git, GitHub Actions
