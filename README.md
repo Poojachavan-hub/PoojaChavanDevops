@@ -48,7 +48,7 @@ In addition to my technical background, I bring a strong foundation in **team le
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Doraemon says hello!" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250" alt="Cute Cat Saying Hello" />
 </p>
 
 <h1 align="center">Hello 👋 & Welcome to My GitHub Profile!</h1>
