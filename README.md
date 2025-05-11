@@ -22,7 +22,7 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0c/25/df/0c25df531d33877575452d1d179b4728.gif" alt="Doraemon" width="300"/>
+  <[img src="https://i.pinimg.com/originals/0c/25/df/0c25df531d33877575452d1d179b4728.gif" alt="Doraemon" width="300"](https://media.tenor.com/36PEoM1__P0AAAAi/doraemon.gif)/>
 </p>
 
 
