@@ -48,4 +48,11 @@ In addition to my technical background, I bring a strong foundation in **team le
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Waving Cat" />
+</p>
+
+<h1 align="center">Hello 👋 & Welcome to My GitHub Profile!</h1>
+
+
 🌟 *Combining business vision with tech execution to build systems that scale.*
