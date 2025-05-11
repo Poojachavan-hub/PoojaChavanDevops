@@ -29,28 +29,9 @@
 
 <br>
 
-![](under-construction.gif)
-
-<br>
-
-check out my latest app: [Supercharge](https://sindresorhus.com/supercharge) ![](hot.gif)
-
-and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
-
-<br>
-<br>
-
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
 ![](flames.gif)
-
-
-
-
-
-
-
-
 
 
 <div align="center">
