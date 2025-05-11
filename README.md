@@ -1,3 +1,35 @@
+<h1 align="center">Hi 👋, I'm Pooja Chavan</h1>
+<h3 align="center">DevOps & Cloud Professional | CI/CD | AWS | Infrastructure Automation</h3>
+
+- 🔭 I’m currently working at **EKHO Foundation**
+- 🌱 I have **5+ years of experience** in DevOps, Cloud, Automation & Infrastructure
+- 💡 Passionate about **AWS, CI/CD, Terraform, Kubernetes, Jenkins, Ansible, and Cloud Monitoring**
+- ⚙️ Skilled in creating secure, scalable infrastructures and automating deployments
+- 📫 Reach me at: **Poojachavanj779@gmail.com**
+- 🌍 Bengaluru, India
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojachavan-hub&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojachavan-hub&layout=compact&theme=github_dark)
+
+
+
 # 👋 Hi, I'm Pooja Chavan
 
 🚀 DevOps & Cloud Engineer | Tech-Enthusiast with Entrepreneurial Spirit  
